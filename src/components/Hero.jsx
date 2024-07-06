@@ -7,7 +7,7 @@ const Hero = () => {
         <img src={logo} alt="Logo" className="w-28 object-contain text-xl" />
         <button
           type="button"
-          onClick={() => window.open("")}
+          onClick={() => window.open("https://github.com/Vibhudendra/Sumarify---AI-Summarizer")}
           className="black_btn"
         >
           Github
